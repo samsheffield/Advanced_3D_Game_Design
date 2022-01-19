@@ -21,3 +21,4 @@ Let's standardize our primary tool for this class. This will make it easier to c
 *Note: it's okay/normal to have multiple Unity installations on your computer. Just be sure to select 2021.2.8 when you create a new project in Unity Hub.
 
 ## X
+x
