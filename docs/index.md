@@ -1,3 +1,7 @@
+
+
+
+
 ## Advanced 3D Game Design (GMD 340.01)
 
 ### About
