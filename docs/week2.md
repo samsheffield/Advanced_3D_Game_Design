@@ -26,17 +26,15 @@ You will need to create:
 1.  __A first person player character with controller script__
     - Your player must be able to move using the keyboard and mouse or a gamepad
     - You can use the original/classic Input Manager, the new Input System ([here's code we looked at in class](https://drive.google.com/drive/folders/1kypfCwqImEqxiJamrufPnXfPq-lg1OB0?usp=sharing)), or player prefabs from the [Unity Starter Pack: First Person Character Controller](https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-196525).
-    - Your player character must have one action (a verb!) through which they can interact with the level. *You choose!*
 
-2. __Two characters/enemies/friends/npcs with any basic behavior script__
+2. __One character/enemy/friend/npc with any basic behavior script__
     - Include an animation (using Mixamo perhaps) if you remember how!
-    - Try for distinct behaviors not just variations. *One should involve interaction with the player*
 
 3. __One interactive gameobject with behavior script__
-    - Could be a collectible, a narrative device. Anything the player comes across in the world and can interact with in some way.
-    - Think about what the cause and effect relationship are between the player and this object.
+    - Could be a collectible, or a narrative device. Anything the player comes across in the world and can interact with in some way.
+    - Think about what the cause and effect relationships between the player and this object might be.
 
-4. __Four environmental objects obstacle with placeholder graphics__ 
+4. __Four simple environmental objects with placeholder graphics__ 
     - These can be created with Probuilder, or imported FBX models (which you make or import from the Unity Asset Store)
     - *Ideally*, a little bit of both! 
 
@@ -48,7 +46,7 @@ You will need to create:
     - Have it do something: Trigger UI Text (Can be TextMesh Pro if you're into that!), switch scenes, play a song, etc.
 
 ## Open Studio
-Please work on your kit development here until *at least* 2pm today.
+Please work on your kit development with whatever remaining time we have in class after the review session. If you would like to work remotely, please email documentation of what you accomplished (no matter how small!) by the end of the day.
 
 
 ### What to turn in
