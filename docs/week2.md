@@ -53,12 +53,14 @@ Please work on your kit development here until *at least* 2pm today.
 
 ### What to turn in
 *Participating in the Global Game Jam?*
-    - __YES__: Just put these things in an empty scene so that I can see that they technically work.
-    - __NO__: Make a small level as a test scene where you put the kit together in a personally meaningful way.
+
+- __YES__: Just put these things in an empty scene so that I can see that they technically work.
+- __NO__: Make a small level as a test scene where you put the kit together in a personally meaningful way.
 
 Either way, I only want *tested* Mac & PC builds uploaded to your Drive folder. Reach out to members of the class on Discord if you need help testing on a platform you don't develop from.
 
-__Homework__
+# Homework
+
 ## Two choices this week...
 1. Global Game Jam
 2. Continue to work on your 3D Prototyping Kit
