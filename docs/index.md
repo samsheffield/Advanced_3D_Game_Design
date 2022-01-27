@@ -37,7 +37,8 @@ In this studio course, students will create small 3D games in groups while furth
 - YouTube playlist is [here](https://youtube.com/playlist?list=PL42xm44H83rK_OUlOTopt_oYKbOKSyKkY)
 
 ## Weekly Class Notes
-- Week 1 (01/18):
+- Week 1 (01/20):
   - [Welcome, Class Overview, Q&A](week1.md)
-
+- Week 2 (01/27):
+  - [A little review, 3D Prototyping Kit](week2.md)
 
