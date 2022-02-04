@@ -5,7 +5,7 @@ So excited to welcome you all back. In-person! I'm not feeling sick! Today, we'l
 
 ## Demo: URP & Post-Processing Stack Intro
 - Here are notes for today's class ([link](https://docs.google.com/document/d/1F7moRDPjMCfvlIEV5ToE-hh6EnNeInAHKY2EGu2j4xc/edit?usp=sharing)). 
-- Videos should be uploaded by Friday morning.
+- Week 3 video notes [here](https://youtube.com/playlist?list=PL42xm44H83rK_OUlOTopt_oYKbOKSyKkY)].
 
 ## Open Studio
 Please work on your prototype with whatever remaining time we have in class. If you would like to work remotely, please email documentation of what you accomplished (no matter how small!) by the end of the day.
