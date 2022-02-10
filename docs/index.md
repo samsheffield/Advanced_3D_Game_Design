@@ -43,3 +43,5 @@ In this studio course, students will create small 3D games in groups while furth
   - [A little review, 3D Prototyping Kit](week2.md)
 - Week 3 (02/03):
   - [URP, Post-Processing](week3.md)
+- Week 4 (02/10):
+  - [Particles...in 3D!](week4.md)
