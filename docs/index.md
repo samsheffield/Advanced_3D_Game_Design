@@ -45,3 +45,5 @@ In this studio course, students will create small 3D games in groups while furth
   - [URP, Post-Processing](week3.md)
 - Week 4 (02/10):
   - [Particles...in 3D!](week4.md)
+- Week 5 (02/17):
+  - [Color Grading & LUTs](week5.md)
