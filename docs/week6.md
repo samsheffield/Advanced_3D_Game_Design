@@ -16,7 +16,7 @@ Before you leave:
 - A short description of the game concept your group is most interested in pursuing
 
 ## Brainstorming Session
-A brainstorming jamboard for us to work with is [here](https://docs.google.com/document/d/1g6cBS8CoVhznupujgdbJgbVYsqd4hPklCNn8GxbLU9E/edit?usp=sharing).
+A brainstorming jamboard for us to work with is [here](https://jamboard.google.com/d/1uHdQ3T-uiNvY62jk_BJw6UCkrWZR8FuJlsN8xaYizdY/edit?usp=sharing).
 
 
 # Homework
