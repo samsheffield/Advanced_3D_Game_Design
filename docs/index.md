@@ -47,3 +47,5 @@ In this studio course, students will create small 3D games in groups while furth
   - [Particles...in 3D!](week4.md)
 - Week 5 (02/17):
   - [Color Grading & LUTs](week5.md)
+- Week 6 (02/24):
+  - [Core Project Begins](week6.md)
