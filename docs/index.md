@@ -49,3 +49,5 @@ In this studio course, students will create small 3D games in groups while furth
   - [Color Grading & LUTs](week5.md)
 - Week 6 (02/24):
   - [Core Project Begins](week6.md)
+- Week 7 (03/03):
+  - [Core Project: Present Research & Begin Proof of Concept Prototyping](week7.md)
