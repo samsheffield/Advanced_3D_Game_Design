@@ -1,8 +1,7 @@
-# CORE PROJECT: BRAINSTORMING & GROUPS
+# CORE PROJECT: REVIEW PLANS & BEGIN PROTOTYPING
 So excited to welcome you all back.Today, we'll meet as a group to...
-- Take a look at your LUT homework
-- Discuss Core Project
-- Form groups & brainstorm
+- Review research & planning
+- Work session
 
 ## Core Project
 
