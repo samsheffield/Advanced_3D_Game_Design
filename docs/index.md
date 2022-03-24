@@ -53,3 +53,5 @@ In this studio course, students will create small 3D games in groups while furth
   - [Core Project: Present Research & Begin Proof of Concept Prototyping](week7.md)
 - Week 8 (03/10):
   - [Core Project: Present Proof of Concept Prototypes & Begin Layout and Planning](week8.md)
+- Week 9 (03/24):
+  - [Core Project: Work Session & Unity Lighting Review](week9.md)
