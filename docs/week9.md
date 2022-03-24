@@ -1,4 +1,4 @@
-# CORE PROJECT: REVIEW PROOF OF CONCEPT PROTOTYPES
+# CORE PROJECT: WORK SESSION & LIGHTING REVIEW
 So excited to welcome you all back. Today, we'll meet as a group to...
 - Review proof of concept prototypes
 - Work session
