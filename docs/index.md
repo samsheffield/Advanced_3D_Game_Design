@@ -57,3 +57,5 @@ In this studio course, students will create small 3D games in groups while furth
   - [Core Project: Work Session & Unity Lighting Review](week9.md)
 - Week 10 (03/31):
   - [Core Project: Layout & Greyboxing Review & Work Session](week10.md)
+- Week 11 (04/07):
+  - [Core Project: Playtesting!](week11.md)
