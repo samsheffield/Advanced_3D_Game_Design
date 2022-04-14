@@ -1,4 +1,4 @@
-# CORE PROJECT: REVIEW LEVEL LAYOUTS & GREYBOXING
+# CORE PROJECT: ART ASSET CHECK-IN
 So excited to welcome you all back. Today, we'll meet as a group to...
 - Review level planning and greyboxing
 - Work session
