@@ -10,7 +10,7 @@ A full project description can be found [here](https://docs.google.com/document/
 Let's playtest your games!
 - Link to a build to the class Discord
 - Include a text document with instructions, controls, and known bugs.
-- Link to an online playtetsting form (if you want a copy in addition to doing post-playtesting interviews in-person)
+- Link to an online playtesting form (if you want a copy in addition to doing post-playtesting interviews in-person)
 
 # Homework
 
@@ -18,4 +18,4 @@ Let's playtest your games!
 - Continue developing your game based on this week's feedback.
 - Find 3 non-class playtesters over the next two weeks.
 - Next in-class playtest in two weeks
-- __Art and sound check-in next week. Bring any concept art, sketches, and WIP sound and visual assetsto share with the group__
+- __Art and sound check-in next week. Bring any concept art, sketches, and WIP sound and visual assets to share with the group__
