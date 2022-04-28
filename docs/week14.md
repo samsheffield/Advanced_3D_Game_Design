@@ -17,7 +17,7 @@ Let's play your games!
 Thank you for all of your hard work this semester! You made some really amazing things and were such a good-spirited and supportive group! __Thank you!__
 
 ### Homework
-- Fill out Core Project eer/self review form ([here is the link](https://forms.gle/z5cZZJBmCpW1J6EB7))
+- Fill out Core Project peer/self review form ([here is the link](https://forms.gle/z5cZZJBmCpW1J6EB7))
 - Documentation of games uploaded to Drive folder
     - 4 screenshots (one can be title screen)
     - 1 written description including team members' names
