@@ -63,3 +63,7 @@ In this studio course, students will create small 3D games in groups while furth
   - [Core Project: Art Check-In & Work Session](week12.md)
 - Week 13 (04/21):
   - [Core Project: Playtesting](week13.md)
+- Week 14 (04/28):
+  - [Core Project: Final Playtesting](week14.md)
+- Week 15 (05/05):
+  - Documentation Due!
