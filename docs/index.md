@@ -18,52 +18,22 @@ In this studio course, students will create small 3D games in groups while furth
 
 
 ### Student Learning Outcomes
+- Students will gain more experience with Unity’s 3D workflow.
+- Students will gain familiarity with Unity tools such as Post-Processing, Terrain Tools, Shadergraph, and the URP.
 - Students will research, prototype, and develop a small, self-directed 3D game.
-- Students will gain more experience with Unity’s 3D animation workflow.
-- Students will workshop newer aspects of Unity, including Shadergraph and the URP.
 - Students will communicate and present game designs from concept to finished form.
 
 
 ### Class Syllabus
-- PDF is [here](https://docs.google.com/document/d/1GzVHUir5baQDx8stSL9Bwu8Mzk44TLhORRmWUNcheBk/edit?usp=sharing)
+- PDF is [here](https://docs.google.com/document/d/1b4BHQRMDW5Vewgt7--ZLn1q1Emw6g5aWPbBmMEI1JzY/edit?usp=sharing)
 
-### Software Versions
-- Class materials developed using Unity 2021.2.8 or above
-
-## Class Example Repository
-- Github repository is [here]()
+### Software Version
+- Class materials developed using Unity 2021 LTS
 
 ## Demo Videos
-- YouTube playlist is [here](https://youtube.com/playlist?list=PL42xm44H83rK_OUlOTopt_oYKbOKSyKkY)
+- Do you need demo videos? I'll add the channel here.
 
 ## Weekly Class Notes
-- Week 1 (01/20):
-  - [Welcome, Class Overview, Q&A](week1.md)
-- Week 2 (01/27):
-  - [A little review, 3D Prototyping Kit](week2.md)
-- Week 3 (02/03):
-  - [URP, Post-Processing](week3.md)
-- Week 4 (02/10):
-  - [Particles...in 3D!](week4.md)
-- Week 5 (02/17):
-  - [Color Grading & LUTs](week5.md)
-- Week 6 (02/24):
-  - [Core Project Begins](week6.md)
-- Week 7 (03/03):
-  - [Core Project: Present Research & Begin Proof of Concept Prototyping](week7.md)
-- Week 8 (03/10):
-  - [Core Project: Present Proof of Concept Prototypes & Begin Layout and Planning](week8.md)
-- Week 9 (03/24):
-  - [Core Project: Work Session & Unity Lighting Review](week9.md)
-- Week 10 (03/31):
-  - [Core Project: Layout & Greyboxing Review & Work Session](week10.md)
-- Week 11 (04/07):
-  - [Core Project: Playtesting!](week11.md)
-- Week 12 (04/14):
-  - [Core Project: Art Check-In & Work Session](week12.md)
-- Week 13 (04/21):
-  - [Core Project: Playtesting](week13.md)
-- Week 14 (04/28):
-  - [Core Project: Final Playtesting](week14.md)
-- Week 15 (05/05):
-  - Documentation Due!
+Week 1 (01/23):
+- Welcome, Class Overview, Q&A
+- URP, Post-Processing
