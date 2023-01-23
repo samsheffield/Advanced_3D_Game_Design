@@ -34,6 +34,6 @@ In this studio course, students will create small 3D games in groups while furth
 - Do you need demo videos? I'll add the channel here.
 
 ## Weekly Class Notes
-Week 1 (01/23):
+[Week 1 (01/23):](week1.md)
 - Welcome, Class Overview, Q&A
 - URP, Post-Processing
