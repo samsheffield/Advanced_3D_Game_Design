@@ -2,7 +2,7 @@
 So excited to welcome you all back. Today, we'll meet as a group to...
 - Say hello!
 - Discuss this class ([Syllabus](https://docs.google.com/document/d/1b4BHQRMDW5Vewgt7--ZLn1q1Emw6g5aWPbBmMEI1JzY/edit?usp=sharing), Hybrid structure, expectations and responsibilities)
-- Any other concerns or questions? (This class, this semester, ...uhh, averything!)
+- Any other concerns or questions? (This class, this semester, ...uhh, everything!)
 
 # URP + POST PROCESSING
 So excited to welcome you all back. In-person! Today, we'll meet as a group to...

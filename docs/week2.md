@@ -1,75 +1,46 @@
-# A LITTLE REVIEW ! !
-So excited to welcome you all back. In-person even! Today, we'll meet as a group to...
-- Say hello again!
-- Review ProBuilder, Cinemachine, and the new Input System
-- [Here's a link](https://drive.google.com/drive/folders/1kypfCwqImEqxiJamrufPnXfPq-lg1OB0?usp=sharing) to some new Input System First Person code for us to look at together
-- *I need a little more info from you too!* :)
+# COLOR!
+Hello again! Today, we'll meet as a group to...
+- Take a look at your Post-Processing explorations
+- Discuss Color Grading/Lookup Tables (LUTs)
+- Introduce Unity's Particle System
 
-## Review Materials
-Here are some additional links to materials which will be helpful and relevant to the work we review in class together:
-- Cinemachine Tutorials:
-    - [Intro to Cinemachine](https://www.youtube.com/watch?v=Gx9gZ9cfrys&t=129s)
-    - [Creating a Third Person Camera using Cinemachine Free Look in Unity that Avoids Obstacles](https://www.youtube.com/watch?v=jPU2ri4ZwxM)
-- Unity Probuilder Tutorials: 
-    - [Official ProBuilder Documentation](https://unity.com/features/probuilder)
-    - [ProBuilder Building Structures with Interior and Exterior](https://www.youtube.com/watch?v=CBa_opm3_GM&t=1520s)
-    - [ProBuilder Greyboxing an Interior FPS Level](https://www.youtube.com/watch?v=dYBOBgfcTgY)
-- New Input System Tutorials:
-    - [Cinemachine First Person Controller w/ Input System](https://www.youtube.com/watch?v=5n_hmqHdijM)
-    - [How to use the NEW Input System with Cinemachine in Unity](https://www.youtube.com/watch?v=we4CGmkPQ6Q)
+## Demo: Color Grading & LUTs
+- Here are notes from today's demo ([link](https://docs.google.com/document/d/1zRiMmsXNNYSvqq6qI9AYL6nwMzSLFUWu0s1xbe8sL9Q/edit?usp=sharing))
+
+- Here are neutral LUTs for you to use ([link](https://drive.google.com/drive/folders/1s0G2oKppQtrKwaPSAafh24eXlESuZC-e?usp=sharing))
+
+## Demo: Particle System
+- Unity's Particle System is very powerful so it can be a little overwhelming at first. Today we'll take a look at some of the critical (and fun) things you should know. (If you’re in a hurry, see the [TLDR version](https://docs.google.com/document/d/1WyLn0Jx-Pcci3iEHzawxRA64yQg34CdNvbYghcDjoX0/edit?usp=sharing))
+
+- Setting up the Particle System ([link](https://docs.google.com/document/d/11GkD5JAjCVQdt3yyN7UOXdj35QW8h5aNkMUESaRw1eE/edit?usp=sharing))
+- Instantiating, Controlling, and Destroying a Particle System ([link](https://docs.google.com/document/d/1EcOaiuJIByTCkjkR-E8izojQbiWZYp2dDfeIphh1Zv4/edit?usp=sharing))
+- Varying the properties of particles ([link](https://docs.google.com/document/d/1HSc88V-Ba0FHET9s9xEhreStEL9PmCQ-U4IvTfp8QKA/edit?usp=sharing))
+- Creating 2D particle materials ([link](https://docs.google.com/document/d/19e5IuNLNd4Mdg2fZ0pyZwt0JGorJh0ytOyBjw0U2jLM/edit?usp=sharing))
+- Using 3D assets as particles ([link](https://docs.google.com/document/d/18OHVQK1T-f2_rxV1N6mSYz459-ENBGYaUnsOTxjqBk4/edit?usp=sharing))
+- Incorporating lights into particles ([link](https://docs.google.com/document/d/1fci0XQQhqV5901neZn_FDsKvEXxQuwq23HWIeuSuwSA/edit?usp=sharing))
 
 
-## 3D Prototyping Kit (Due next week)
-In preparation for the prototyping and review we'll do over the next month, I want you to build yourself a little 3D prototyping kit. It can be really simple and composed of a things that you build/set up from scratch, or using things you *still understand* from when you took 3D Game Design. Make as many of these things prefabs as possible (aside from materials)
-
-You will need to create:
-1.  __A first person player character with controller script__
-    - Your player must be able to move using the keyboard and mouse or a gamepad
-    - You can use the original/classic Input Manager, the new Input System ([here's code we looked at in class](https://drive.google.com/drive/folders/1kypfCwqImEqxiJamrufPnXfPq-lg1OB0?usp=sharing)), or player prefabs from the [Unity Starter Pack: First Person Character Controller](https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-196525).
-
-2. __One character/enemy/friend/npc with any basic behavior script__
-    - Include an animation (using Mixamo perhaps) if you remember how!
-
-3. __One interactive gameobject with behavior script__
-    - Could be a collectible, or a narrative device. Anything the player comes across in the world and can interact with in some way.
-    - Think about what the cause and effect relationships between the player and this object might be.
-
-4. __Four simple environmental objects with placeholder graphics__ 
-    - These can be created with Probuilder, or imported FBX models (which you make or import from the Unity Asset Store)
-    - *Ideally*, a little bit of both! 
-
-5. __At least four basic materials that can be applied to different surfaces__
-    - Can be as simple as a solid color or more complex and textured
-
-6. __One goal item prefab with script that can be *triggered* by the player__
-    - A destination! So it needs to stand out and read as a goal
-    - Have it do something: Trigger UI Text (Can be TextMesh Pro if you're into that!), switch scenes, play a song, etc.
 
 ## Open Studio
-Please work on your kit development with whatever remaining time we have in class after the review session. If you would like to work remotely, please email documentation of what you accomplished (no matter how small!) by the end of the day.
-
-
-### What to turn in
-*Participating in the Global Game Jam?*
-
-- __YES__: Just put these things in an empty scene so that I can see that they technically work.
-- __NO__: Make a small level as a test scene where you put the kit together in a personally meaningful way.
-
-Either way, I only want *tested* Mac & PC builds uploaded to your Drive folder. Reach out to members of the class on Discord if you need help testing on a platform you don't develop from.
+Please work on your prototype with whatever remaining time we have in class anywhere on the 2nd floor. _Don't leave early without getting permission._
 
 # Homework
 
 ## Two choices this week...
-1. Global Game Jam
-2. Continue to work on your 3D Prototyping Kit
+1. Global Game Jam (*why should you participate in this?*). Register [here](https://globalgamejam.org/2023/jam-sites/mica-game-lab).
+2. Continue to work on your Color Exploration
 
-If you participate in the GGJ, send me a link to your completed game for homework credit this week. Otherwise, upload a build of the progress on your 3D Prototyping Kit by start of class next week.
+### What to turn in
+I only want *tested* Mac & PC builds uploaded to your Drive folder. _Send me the link_. 
 
-## Global Game Jam
-It's that time again! Maybe warm up for the semester with a little project this weekend? With [this super secret (not-so-secret) theme](https://www.youtube.com/watch?v=6on52GnVE0w)?
-- The event kicks off at 5pm on Friday (TOMORROW!) on the MICA Game LAb Discord and ends at 5pm on Sunday
-- Head over to the MGL Discord if you're looking to join a team or to just say hello!
-- More info and register [here](https://globalgamejam.org/2022/jam-sites/mica-game-lab)
+No project files unless there is an issue you want to resolve. WebGL builds are nice, but secondary, concerns in this class. 
 
-## Google Drive
-I'll send you a link to your class Google Drive early next week! Or maybe today!
+#### Mac builds
+We have Macs on the floor that you can run [this fix](https://youtu.be/gHZnBzAtBhU) on. **You must run this fix on a Mac if you are building from a PC before sharing the zipped .app file**. Reach out on the MICA Game Lab Discord if you need help testing on a platform you don't develop from.
+
+### If you participate in the GGJ...
+1. Create builds for your exploration started in class today. Upload and send me the link.
+2. Send me the link to your GGJ game (even if you didn't manage to finish it!)
+
+### Prototype show & tell next week
+We'll start class next week by having you briefly share your prototypes and GGJ games.

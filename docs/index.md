@@ -37,3 +37,8 @@ In this studio course, students will create small 3D games in groups while furth
 [Week 1 (01/23):](week1.md)
 - Welcome, Class Overview, Q&A
 - URP, Post-Processing
+
+[Week 2 (01/30):](week2.md)
+- Color Grading and Lookup Tables (LUTs)
+- Introduction to Unity's Particle System
+- Global Game Jam!
