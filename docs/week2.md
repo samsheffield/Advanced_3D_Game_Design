@@ -19,6 +19,8 @@ Hello again! Today, we'll meet as a group to...
 - Using 3D assets as particles ([link](https://docs.google.com/document/d/18OHVQK1T-f2_rxV1N6mSYz459-ENBGYaUnsOTxjqBk4/edit?usp=sharing))
 - Incorporating lights into particles ([link](https://docs.google.com/document/d/1fci0XQQhqV5901neZn_FDsKvEXxQuwq23HWIeuSuwSA/edit?usp=sharing))
 
+## Color/ Particle Prototype
+Here's the project description ([link](https://docs.google.com/document/d/1lEvDTKJyKjCPQvb-5U0itMIEmL4vjsW5AXfvhxJW_3U/edit?usp=sharing))
 
 
 ## Open Studio
