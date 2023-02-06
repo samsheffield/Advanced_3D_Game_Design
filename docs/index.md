@@ -42,3 +42,6 @@ In this studio course, students will create small 3D games in groups while furth
 - Color Grading and Lookup Tables (LUTs)
 - Introduction to Unity's Particle System
 - Global Game Jam!
+
+[Week 3 (02/06):](week3.md)
+- Introduce Unity's Terrain Tools
