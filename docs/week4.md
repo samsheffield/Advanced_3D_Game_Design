@@ -1,29 +1,30 @@
-# PARTICLES... IN 3D!
-So excited to welcome you all back. I'm not feeling sick! Today, we'll meet as a group to...
-- Hello!
-- Take a look at your Post-Processing homework
-- Demo: Particle System
+# Lightmapping and Light Probes
+Some goals for today's class...
+- Check out your homework explorations
+- Demo: Lightmapping and Light Probes
 
-## Demo: Particle System
-- Unity's Particle System is very powerful so it can be a little overwhelming at first. Today we'll take a look at some of the critical (and fun) things you should know. (If you’re in a hurry, see the [TLDR version](https://docs.google.com/document/d/1WyLn0Jx-Pcci3iEHzawxRA64yQg34CdNvbYghcDjoX0/edit?usp=sharing))
+## Next Week: Vian Nguyen class visit
+Next week, MICA GMD alum and Game Designer at [Filament Games](https://www.filamentgames.com/) will be doing an online class visit. You can also check out some of Vian's personal games [here](https://jubnuggets.itch.io/).
 
-- Setting up the Particle System ([link](https://docs.google.com/document/d/11GkD5JAjCVQdt3yyN7UOXdj35QW8h5aNkMUESaRw1eE/edit?usp=sharing))
-- Instantiating, Controlling, and Destroying a Particle System ([link](https://docs.google.com/document/d/1EcOaiuJIByTCkjkR-E8izojQbiWZYp2dDfeIphh1Zv4/edit?usp=sharing))
-- Varying the properties of particles ([link](https://docs.google.com/document/d/1HSc88V-Ba0FHET9s9xEhreStEL9PmCQ-U4IvTfp8QKA/edit?usp=sharing))
-- Creating 2D particle materials ([link](https://docs.google.com/document/d/19e5IuNLNd4Mdg2fZ0pyZwt0JGorJh0ytOyBjw0U2jLM/edit?usp=sharing))
-- Using 3D assets as particles ([link](https://docs.google.com/document/d/18OHVQK1T-f2_rxV1N6mSYz459-ENBGYaUnsOTxjqBk4/edit?usp=sharing))
-- Incorporating lights into particles ([link](https://docs.google.com/document/d/1fci0XQQhqV5901neZn_FDsKvEXxQuwq23HWIeuSuwSA/edit?usp=sharing))
+## Demo: Lightmapping and Light Probes
+
+Notes for today's class are available [here](https://docs.google.com/document/d/1R5DflRdQZe2v5qO7dhEFk4HjJNg3frqGc8gpKHADLks/edit?usp=sharing).
 
 ## Open Studio
-Please work on your prototype with whatever remaining time we have in class. If you would like to work remotely, please email documentation of what you accomplished (no matter how small!) by the end of the day.
+Please work on your prototype with whatever remaining time we have in class anywhere on the 2nd floor. _Don't leave early without getting permission._
 
 # Homework
 
-## Prototype 2: Particle Exploration 
-Here's the project write up ([link](https://docs.google.com/document/d/1gx-m7JRjZgwfZgbue44TdgPWn0EkCqb0mDhrFgpDy68/edit?usp=sharing))
+## Prototype 4: Lighting Exploration
+Here's the project description ([link](https://docs.google.com/document/d/1Zlpgeu4tDyA-DpES-gItBd6pBoByLyfzW10A9e6awHg/edit?usp=sharing))
 
 ### What to turn in
-I only want *tested* Mac & PC builds uploaded to your Drive folder. Reach out to members of the class on Discord if you need help testing on a platform you don't develop from.
+I only want *tested* Mac & PC builds uploaded to your Drive folder. _Send me the link_. 
+
+No project files unless there is an issue you want to resolve. WebGL builds are nice, but secondary, concerns in this class. 
+
+#### Mac builds
+We have Macs on the floor that you can run [this fix](https://youtu.be/gHZnBzAtBhU) on. **You must run this fix on a Mac if you are building from a PC before sharing the zipped .app file**. Reach out on the MICA Game Lab Discord if you need help testing on a platform you don't develop from.
 
 ### Prototype show & tell next week
-We'll start class next week by having you briefly share your prototype. This will become pretty routine since we have a wonderfully sized class! 
+We'll start class next week by having you briefly share your prototypes.
