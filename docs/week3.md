@@ -1,25 +1,22 @@
-# Terrain Tools
+# Lightmapping and Light Probes
 Some goals for today's class...
-- Check out your homework explorations/GGJ games
-- Demo: Unity's Terrain Tools
+- Check out your homework explorations
+- Demo: Lightmapping and Light Probes
 
-## Demo: Unity's Terrain Tools
-Confusingly, Unity provides two levels of tools to build terrains within the editor. There is a basic Terrain tool, which is already include with Unity (documentation [here](https://docs.unity3d.com/Manual/script-Terrain.html)) and the new Terrain Tools package, which significantly extends the toolset.
+## Next Week: Vian Nguyen class visit
+Next week, MICA GMD alum and Game Designer at [Filament Games](https://www.filamentgames.com/) will be doing an online class visit. You can also check out some of Vian's personal games [here](https://jubnuggets.itch.io/).
 
-- Unity's documentation on the Terrain Tools is good. Here's the [link](https://docs.unity3d.com/Packages/com.unity.terrain-tools@4.0/manual/index.html)
-- We'll add the Terrain Tools pack via the Package Manager.
-- We also need the recommended [Terrain Sample Asset Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808) which adds a number of brushes and textures to begin prototyping with. _Note: this package is 1+ GB large._
-- We also need some additional [assets for trees and grass](https://drive.google.com/file/d/1Mz99d_wlutxtcpTGzmQZiIX-qSEXmoBX/view?usp=sharing). Add this unitypackage to your project.
+## Demo: Lightmapping and Light Probes
 
-
+Notes for today's class are available [here](https://docs.google.com/document/d/1R5DflRdQZe2v5qO7dhEFk4HjJNg3frqGc8gpKHADLks/edit?usp=sharing).
 
 ## Open Studio
 Please work on your prototype with whatever remaining time we have in class anywhere on the 2nd floor. _Don't leave early without getting permission._
 
 # Homework
 
-## Prototype 3: Terrain Exploration
-Here's the project description ([link](https://docs.google.com/document/d/1xFTQck1JtbYCNStzUCxtXQ89lIFlkun0JkF5_RhPPsk/edit?usp=sharing))
+## Prototype 4: Lighting Exploration
+Here's the project description ([link](https://docs.google.com/document/d/1Zlpgeu4tDyA-DpES-gItBd6pBoByLyfzW10A9e6awHg/edit?usp=sharing))
 
 ### What to turn in
 I only want *tested* Mac & PC builds uploaded to your Drive folder. _Send me the link_. 

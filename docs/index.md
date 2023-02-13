@@ -45,3 +45,6 @@ In this studio course, students will create small 3D games in groups while furth
 
 [Week 3 (02/06):](week3.md)
 - Introduce Unity's Terrain Tools
+
+[Week 4 (02/13):](week4.md)
+- Lightmapping Review and Light Probe Introduction
