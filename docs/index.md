@@ -48,3 +48,6 @@ In this studio course, students will create small 3D games in groups while furth
 
 [Week 4 (02/13):](week4.md)
 - Lightmapping Review and Light Probe Introduction
+
+[Week 5 (02/20):](week5.md)
+- Shader Graph Introduction, Class Visit
