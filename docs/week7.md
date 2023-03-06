@@ -1,37 +1,33 @@
-# CORE PROJECT: REVIEW PLANS & BEGIN PROTOTYPING
-So excited to welcome you all back.Today, we'll meet as a group to...
-- Review research & planning
-- Work session
+# Shader Graph Introduction (Part 2)
+Some goals for today's class...
+- Check out your homework explorations
+- Demo: Shader Graph Basics (Vertex Displacement and Noise Shaders)
 
-## Core Project
+## Demo: Shader Graph Basics
 
-A full project description can be found [here](https://docs.google.com/document/d/1tDOYw7MyPxJZYdS6a-K1kuao_4ohD3uiCvcKuJpBMBE/edit?usp=sharing).
+This is going to be a very hands-on demo. _Does anyone need a video?_ Written notes are available [here](https://docs.google.com/document/d/1qq5yT-cnaDWIxLLKKZai80sQuUc1zlCgxOHJWUPoDRY/edit?usp=sharing).
 
-### Present Research
-Meet as a large group to discuss research & project ideas. Link to your planning document on the class Discord.
+### Demo Materials
+- I'll upload the Shader Graph exmaples here once we finish the demo. Need to clean up the fire example with properties.
 
-### Work Session: Begin Developing Proof of Concept Prototype(s) 
-Your goal this week is to develop at least one prototype which demonstrates how your game works. This is as much about demonstrating _functionality_ as it is about _potential_. Show us _why_ this works, not just _how_ it works!
-
-Also, if you can’t have a basic implementation of core things prototyped by this stage you will be discouraged from adding it later. Figure out what is central to your game.
-
-__Do not design levels or focus on visual assets at this point__. Create _undesigned_ sandbox scene(s) which explore core mechanics (the novel or interesting things a player can do in your game), basic player metrics (scale of player to world and basic movement mechanics), and how your core gameplay works. Keep the assets simple but informative/expressive.
-
-### Working remotely?
-If you need to work remotely today, please provide me with documentation via email demonstrating the work you completed today. See homework notes too...
-
-### How are you planning to collaborate?
-Now is the time to also make some decisions (if you haven't already) about how you are going to work together and what your process for implementing work and checking-in before class each week will look like.
+## Open Studio
+Please work on your prototype with whatever remaining time we have in class anywhere on the 2nd floor. _Don't leave early without getting permission._
 
 # Homework
 
-## Core Project: Proof of Concept
+## GMD SVA Open Forum This Thursday
+Come by the Game Lab this Thursday from 7-8 to discuss GMD/MICA questions or concerns. Bring some snacks. This is your opportunity to provide valuable feedback to our community!
 
-### Continue development
-Delegate work and make a plan to check-in before leaving today. At this point, it makes sense to have each team member contribute somehow to the development of your proof of concept prototypes.
+## Prototype 6: Shader Graph Explorations 2
+*Turn his in when you finish today.* Here's the project description ([link](https://docs.google.com/document/d/1QEMvRF1iXej3sS8FbS-alNmehRa0HYxwYSf1XRpsNNU/edit?usp=sharing))
 
-We'll review these in class next week.
+### What to turn in
+I only want *tested* Mac & PC builds uploaded to your Drive folder. _Send me the link_. 
 
-__Deliverable:__
-_Where to upload?_ Make sure to upload your proof of concept builds to your shared Drive folder.
+No project files unless there is an issue you want to resolve. WebGL builds are nice, but secondary, concerns in this class. 
 
+#### Mac builds
+We have Macs on the floor that you can run [this fix](https://youtu.be/gHZnBzAtBhU) on. **You must run this fix on a Mac if you are building from a PC before sharing the zipped .app file**. Reach out on the MICA Game Lab Discord if you need help testing on a platform you don't develop from.
+
+### Spring Break next week
+No homework! Have a great break!
