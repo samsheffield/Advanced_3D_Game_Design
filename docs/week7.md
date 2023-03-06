@@ -5,7 +5,7 @@ Some goals for today's class...
 
 ## Demo: Shader Graph Basics
 
-This is going to be a very hands-on demo. _Does anyone need a video?_ Written notes are available [here](https://docs.google.com/document/d/1qq5yT-cnaDWIxLLKKZai80sQuUc1zlCgxOHJWUPoDRY/edit?usp=sharing).
+This is going to be a very hands-on demo. _Does anyone need a video?_
 
 ### Demo Materials
 - I'll upload the Shader Graph exmaples here once we finish the demo. Need to clean up the fire example with properties.
