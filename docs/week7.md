@@ -19,7 +19,7 @@ Please work on your prototype with whatever remaining time we have in class anyw
 Come by the Game Lab this Thursday from 7-8 to discuss GMD/MICA questions or concerns. Bring some snacks. This is your opportunity to provide valuable feedback to our community!
 
 ## Prototype 6: Shader Graph Explorations 2
-*Turn his in when you finish today.* Here's the project description ([link](https://docs.google.com/document/d/1QEMvRF1iXej3sS8FbS-alNmehRa0HYxwYSf1XRpsNNU/edit?usp=sharing))
+*Turn this in when you finish today.* Here's the project description ([link](https://docs.google.com/document/d/1QEMvRF1iXej3sS8FbS-alNmehRa0HYxwYSf1XRpsNNU/edit?usp=sharing))
 
 ### What to turn in
 I only want *tested* Mac & PC builds uploaded to your Drive folder. _Send me the link_. 
