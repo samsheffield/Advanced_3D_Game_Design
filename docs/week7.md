@@ -5,10 +5,10 @@ Some goals for today's class...
 
 ## Demo: Shader Graph Basics
 
-This is going to be a very hands-on demo. _Does anyone need a video?_
+This is going to be a very hands-on demo. I'll type up notes. _Does anyone need a video?_
 
 ### Demo Materials
-- I'll upload the Shader Graph exmaples here once we finish the demo. Need to clean up the fire example with properties.
+- [Here](https://drive.google.com/file/d/1mDiX60IcdvIKotQlFtz6Pz_pAv4QHVJv/view?usp=sharing) are the Shader Graph examples from class today.
 
 ## Open Studio
 Please work on your prototype with whatever remaining time we have in class anywhere on the 2nd floor. _Don't leave early without getting permission._
