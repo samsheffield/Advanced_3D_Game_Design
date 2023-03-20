@@ -28,7 +28,7 @@ _This is a very big application but will greatly reduce development time in-edit
 I have a small number of games installed on our Quest 2 headsets for us to play. Find a partner (you'll also need to share headsets in class and for homework). Fingers crossed, we'll be able to all use the sam accout at once!
 
 ## Demo: VR Basics
-This is going to be a very hands-on demo. [Here's a video]() covering everything we'll do together in class today.
+This is going to be a very hands-on demo. [Here's a video](https://youtu.be/VsIxFgpEulk) covering everything we'll do together in class today.
 
 ## Open Studio
 Please work on your prototype with whatever remaining time we have in class anywhere on the 2nd floor. _Don't leave early without getting permission._
