@@ -1,52 +1,52 @@
-# CORE PROJECT: REVIEW PROOF OF CONCEPT PROTOTYPES
-So excited to welcome you all back. Today, we'll meet as a group to...
-- Review proof of concept prototypes
-- Work session
+# Intro to VR 1
+Welcome back from break. Today, we'll meet as a group to...
+- Play & discuss VR games
+- Set up Unity toolchain for VR development
+- Demo XR Interaction Toolkit
 
-## Core Project
+## Justin Sirois class visit tomorrow @ 1pm
+Tomorrow! Writer, designer, tabletop game publisher, and MICA alum at Severed Books will be doing an in-person class visit at 1pm to Senior Studio in D200. This is an open visit, so please join us if you're available.
 
-A full project description can be found [here](https://docs.google.com/document/d/1tDOYw7MyPxJZYdS6a-K1kuao_4ohD3uiCvcKuJpBMBE/edit?usp=sharing).
+## Graham Wilson online talk tomorrow 11am
+Career Development is hosting an online talk by a toy designer and MICA alum that is open to everyone. Check the MGL Discord for the link or 
 
-### Present Proof of Concept Prototypes
-Meet as a large group to take a look at your proof of concept prototypes.
 
-## Work Session: Begin Level Planning and Prototyping
-Your focus over the next three weeks is to do level layout work and develop a playable prototype of your game.
+## Add Android Build Support to your Unity installation
+_This will take a good amount of time, so let's get it going in the background while we play some games_
 
-### Level Planning & Blockouts (Due 03/31)
+1. Open Unity Hub and select Installs in the sidebat
+2. Locate your Unity 2021 installation in the list and click the gear icon next to its name to Add modules
+3. Find Android Build Support and in stall both OpenJDK and Android SDK & NDK Tools (warning: this will require several GB of free space)
+4. Okay the installation terms
 
-__Level Layout & Planning__
+## Optional for Windows users: Install Oculus App
+_This is a very big application but will greatly reduce development time in-editor if you want to use it_
+1. Install the app from [here](https://www.oculus.com/download_app/?id=1582076955407037)
+2. Log in using the gamelab@mica.edu account. _I will give you the password and help with 2FA, if needed_
 
-You are responsible for developing parti sketches, bubble diagrams, and marked up floor plans of your levels done outside of Unity. __This is not an optional step__.
+## Play VR Games
+I have a small number of games installed on our Quest 2 headsets for us to play. Find a partner (you'll also need to share headsets in class and for homework). Fingers crossed, we'll be able to all use the sam accout at once!
 
-[What's all this stuff?](https://docs.google.com/document/d/14Dg5UPLwQiIX4iHlQaLe4EajpjijYtQQzG-3eqzQKGQ/edit?usp=sharing)
+## Demo: VR Basics
+This is going to be a very hands-on demo. [Here's a video]() covering everything we'll do together in class today.
 
-_Deliverable:_
-
-Collect your game's layout planning in a digital document and share in your group's Drive folder. This must include:
-- 6 parti thumbnails
-- 3 bubble diagrams based on the partis you find most interesting
-- Floor plans based on your most promising bubble diagrams and marked up with details on encounters, important things in the scenes, and indication of flow/critical paths
-
-__Greybox/Blockout__
-
-A first pass at blocked out/greyboxed version of your game. Team members working on visual assets for your game can do their work but __no final assets are to be included in this.__ 
-
-[Blockout? Greyboxing?](https://docs.google.com/document/d/1lrl1fs_mHaHkkeVBSfPLBjaAI7alU8d6-LYwviEZblU/edit?usp=sharing)
-
-_Deliverable:_
-
-Unity project with blocked out scene(s). Player should be able to move around and use basic mechanics in the spaces. Tested Mac & PC builds with included build notes so we can review in class.
-
-### Milestone 1 Prototype (Due 04/05)
-A prototype of your game which is playable by others without your assistance which is functionally complete but without finished audiovisual assets. Tested Mac & PC builds with included build notes.
-
-This deadline is just for goal setting. __Don't focus on this now.__
+## Open Studio
+Please work on your prototype with whatever remaining time we have in class anywhere on the 2nd floor. _Don't leave early without getting permission._
 
 # Homework
 
-## Spring Break
-Take a break next week.
+## Prototype 7: VR Exploration 1
+Here's the project description ([link](https://docs.google.com/document/d/1lTNvoSHEMnek0zMlKs9DOi_8KHEQ0q2Fw_HOL35dMfk/edit?usp=sharing)). 
 
-### Continue development
-Before leaving today, delegate work and make a plan for checking-in after the break. We'll review your group's progress after spring break.
+If you're looking for additional functionality/ideas, there are a couple of good Youtube channels I'd recommend. One is [Jason P Barnett](https://www.youtube.com/@JustinPBarnett) and the other is [VR with Andrew](https://www.youtube.com/@VRwithAndrew). We'll cover teleportation next week in-class, but feel free to dip into any techniques or mechanics that you research that seem interesting. Just be prepared to demo and share how they work next week when we meet.
+
+## VR Headsets
+You and your partner are responsible for one VR headset that you are allowed to borrow this week. Take good care of it. Do not lose it or leave it unattended anywhere. If this seems like too much responsibility, we can also coordinate with Sammy Weil in the 4F office to make the headset available to check out to you during his weekday office hours. Let me know.
+
+### What to turn in
+I only want the *tested* apk file uploaded to your Drive folder. _Send me the link_. 
+
+No project files unless there is an issue you want to resolve. WebGL builds are nice, but secondary, concerns in this class. 
+
+### Prototype show & tell next week
+We'll start class next week by having you briefly share your prototypes.

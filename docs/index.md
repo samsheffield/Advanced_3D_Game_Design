@@ -54,3 +54,6 @@ In this studio course, students will create small 3D games in groups while furth
 
 [Week 7 (03/06):](week7.md)
 - Shader Graph Introduction 2
+
+[Week 8 (03/20):](week8.md)
+- VR Introduction 1
