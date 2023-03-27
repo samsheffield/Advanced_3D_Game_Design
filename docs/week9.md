@@ -1,33 +1,43 @@
-# CORE PROJECT: WORK SESSION & LIGHTING REVIEW
-So excited to welcome you all back. Today, we'll meet as a group to...
-- Review proof of concept prototypes
-- Work session
+# Intro to VR 2
+Welcome back from break. Today, we'll meet as a group to...
+- Review the setup for VR/XR development
+- Demo more VR
 
-## Core Project
 
-A full project description can be found [here](https://docs.google.com/document/d/1tDOYw7MyPxJZYdS6a-K1kuao_4ohD3uiCvcKuJpBMBE/edit?usp=sharing).
+## Demo: More VR Basics 2
+This is going to be a very hands-on demo. Here's what I'd like to cover:
+- Fixes: Remedy character controller + held object movement issue
+- Teleportation (basic implementation, teleportation area, teleportation anchor)
+- XR Ray Interactor (turn off anchor control, changing ray type/appearance, reticles)
+- XR Direct Interactor (setting attach transform, adding audio/haptic feedback)
+- Creating a physical button and a door using Unity Events and joints (Based on the excellent tutorials by Fist Full of Shrimp!)
 
-## Work Session: Continue Prototyping (Before Lunch)
-Your focus over the next three weeks is to do level layout work and develop a playable prototype of your game.
+I'll upload some short videos here covering everything we do together in class today.
 
-### Level Planning & Blockouts (Due next week)
-__1: A digital document collecting level planning__
-- 6 parti thumbnails
-- 3 bubble diagrams based on the partis you find most interesting
-- Floor plans based on your most promising bubble diagrams and marked up with details on encounters, important things in the scenes, and indication of flow/critical paths
-
-__2: A first pass at blocked out/greyboxed version of your game__
-
-Unity project with blocked out scene(s). Player should be able to move around and use basic mechanics in the spaces. Tested Mac & PC builds with included build notes so we can review in class.
-
-## Unity Lighting Review (After Lunch)
-Let's do a small review of Unity's lighting system, with specific focus on working with lightmaps and implementing baked lighting. I'll also introduce light probes and how to turn off Ambient Occlusion, which is on by default in the URP Core template.
-
-Unity's documentation on Lighting is (actually) pretty good:
-- [Unity Manual entry on Lighting System](https://docs.unity3d.com/2022.1/Documentation/Manual/LightingOverview.html)
-- [Unity Manual entry on Light Probes](https://docs.unity3d.com/2022.1/Documentation/Manual/LightProbes.html)
+## Open Studio
+Please work on your prototype with whatever remaining time we have in class anywhere on the 2nd floor. _Don't leave early without getting permission._
 
 # Homework
 
-### Continue project development
-Complete level planning and blockouts listed above. We'll review in class next week.
+## Prototype 8: VR Exploration 2
+Here's the project description ([link](https://docs.google.com/document/d/1pTy3JOf1fqmHcoGq8B8Y_o0zH75J7yGyytsqEtVYRbA/edit?usp=sharing)). 
+
+If you're looking for additional functionality/ideas, here are some good Youtube channels I'd recommend: 
+- [Jason P Barnett](https://www.youtube.com/@JustinPBarnett)
+- [VR with Andrew](https://www.youtube.com/@VRwithAndrew)
+- [Fist Full of Shrimp](https://www.youtube.com/@FistFullofShrimp)
+
+## Begin ideation for the final project
+[Here's the project writeup](https://docs.google.com/document/d/1XLSn4Q9sUw1EnbngyQbPoJi-MfTJ259bo3u3Nov7PCc/edit?usp=sharing). You are responsible for working with at least one other person for this project. This weekend I'd like you to start circling some ideas. Next week, we'll share ideas and do some team-forming and brain-storming
+
+
+## VR Headsets
+You and your partner are responsible for one VR headset that you are allowed to borrow this week. Take good care of it. Do not lose it or leave it unattended anywhere. If this seems like too much responsibility, we can also coordinate with Sammy Weil in the 4F office to make the headset available to check out to you during his weekday office hours. Let me know.
+
+### What to turn in
+I only want the *tested* apk file uploaded to your Drive folder. _Send me the link_. 
+
+No project files unless there is an issue you want to resolve. WebGL builds are nice, but secondary, concerns in this class. 
+
+### Prototype show & tell next week
+We'll start class next week by having you briefly share your prototypes.

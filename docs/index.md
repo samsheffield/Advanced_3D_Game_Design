@@ -57,3 +57,6 @@ In this studio course, students will create small 3D games in groups while furth
 
 [Week 8 (03/20):](week8.md)
 - VR Introduction 1
+
+[Week 9 (03/27):](week9.md)
+- VR Introduction 2
