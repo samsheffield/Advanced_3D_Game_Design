@@ -1,28 +1,44 @@
-# CORE PROJECT: REVIEW LEVEL LAYOUTS & GREYBOXING
-So excited to welcome you all back. Today, we'll meet as a group to...
-- Review level planning and greyboxing
-- Work session
+# Sideloading apk files and Final Project: Group Formation + Brainstorming
+Welcome back from break. Today, we’ll meet as a group to…
 
-## Core Project
-A full project description can be found [here](https://docs.google.com/document/d/1tDOYw7MyPxJZYdS6a-K1kuao_4ohD3uiCvcKuJpBMBE/edit?usp=sharing).
+## Check out VR explorations
+- Sideloading builds onto the Meta Quest 2
+- Final project group formation & brainstorming
+## Demo: Sideloading .apk files
+APK builds from Unity can easily be shared and loaded onto Meta Quest headsets using applications like SideQuest.
 
-### Review level planning and greyboxing
-- Upload builds of your greyboxing to your team's Google Drive and share the link on the class Discord.
-- Have your non-Unity level planning documents ready to present and discuss.
-- __We'll get started with the review at 10:30__
+Watch out! There are two different SideQuest installers. Install the Advanced desktop application (Mac/PC) from the Downloads page.
 
-## Work Session: Continue Prototyping
-Your focus over the next three weeks is to do level layout work and develop a playable prototype of your game.
+### Once SideQuest is installed…
+- Click the install apk button from the top of the window (the icon looks like a box with a downward arrow).
+- Locate apk file on your computer. Thisis produced when you build your game in Unity
 
-## Playable prototypes due next week
-This is a functionally complete prototype without finished audiovisual assets. This prototype needs to be playable by others _without your assistance_ and have at least 3 specific questions for your playtesters.   
+### Where is my game?
+- Find your installed game on the headset by navigating to the App Index (the icon looks like a grid of dots) and selecting the icon in the top right corner of its window.
 
-By the start of class:
-- Uploaded Mac & PC builds with included build notes (this includes control mapping, instructions, known bugs, and [if not clear] scope of prototype).
-- An online document with your playtesting questions
-- Links shared to our class Discord
+- Choose to filter the list by Unknown Sources and you will see all of your installed games.
+- Tip: You can also delete games from here by clicking on the … menu by each name and then selecting Uninstall. Keep our headsets clean!
+- Tip #2: Give your projects meaningful names! Otherwise, it might be difficult to find what you’re looking for.
+
+## Share builds, play games
+Choose one of the prototype you made over the past two weeks and share its apk file on the MGL Discord playesting channel. We’ll spend a little time playing and discussing them this morning.
+
+## Recording from the headset
+Intersted in recording your VR game? To record from the headset you can install the OpenVR input plugin for OBS from [here](https://obsproject.com/forum/resources/openvr-input-plugin.534/).
+
+## Final Project: Brainstorming
+Here’s the link to the [online jamboard](https://jamboard.google.com/d/1fmz5UST6TOcEIvZLUC20buVko7-4BGfvQ6fbRtpGH3A/edit?usp=sharing) that we’ll use to brainstorm today. You’ll need to be using your MICA Google account to edit the document.
 
 # Homework
 
-### Continue project development
-Complete the playable prototype of your game for class next week.
+## Final Project: Project Ideation
+Next week, each team will give a brief presentation on their game idea which includes precedents for mechanics, narrative elements, themes, & art direction. An outline for your slides can be found [here](https://docs.google.com/document/d/1MRfOIbxSUGDb_OteNxvMYAZ8gG4bfAx-dbrSKNwDLXM/edit?usp=sharing)
+
+## Final Project: Begin Developing Proof of Concept Prototype(s)
+Develop at least one prototype which demonstrates how your game works. This is as much about demonstrating functionality as it is about potential. Show us why this works, not just how it works!
+
+Also, if you can’t have a basic implementation of core mechanics prototyped by this stage you will be discouraged from adding it later. Figure out what is central to your game.
+
+Do not design levels or focus on visual assets at this point. Create undesigned sandbox scene(s) which explore core mechanics (the novel or interesting things a player can do in your game), basic player metrics (scale of player to world and basic movement mechanics), and how your core gameplay works. Keep the assets simple but informative/expressive.
+
+Your team will demonstrate the prototype(s) next week.

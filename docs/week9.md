@@ -1,46 +1,43 @@
-# Sideloading apk files and Final Project: Group Formation + Brainstorming
+# Intro to VR 2
 Welcome back from break. Today, we'll meet as a group to...
-- Check out VR explorations
-- Sideloading builds onto the Meta Quest 2
-- Final project group formation & brainstorming
-
-## Demo: Sideloading .apk files
-APK builds from Unity can easily be shared and loaded onto Meta Quest headsets using applications like [SideQuest](https://sidequestvr.com/). 
-
-**Watch out!** There are two different SideQuest installers. Install the *Advanced* desktop application (Mac/PC) from the Downloads page.
-
-### Once SideQuest is installed...
-- Click the install apk button from the top of the window (the icon looks like a box with a downward arrow).
-- Locate apk file on your computer. *Thisis produced when you build your game in Unity*
-
-### Where is my game?
-- Find your installed game on the headset by navigating to the App Index (the icon looks like a grid of dots) and selecting the icon in the top right corner of its window. 
-
-- Choose to filter the list by Unknown Sources and you will see all of your installed games.
-- Tip: You can also delete games from here by clicking on the ... menu by each name and then selecting Uninstall. *Keep our headsets clean!*
-- Tip #2: Give your projects meaningful names! Otherwise, it might be difficult to find what you're looking for.
-
-## Share builds, play games
-Choose one of the prototype you made over the past two weeks and share its apk file on the MGL Discord playesting channel. We'll spend a little time playing and discussing them this morning.
-
-## Recording from the headset
-Intersted in recording your VR game? To record from the headset you can install the OpenVR input plugin for OBS from [here](https://obsproject.com/forum/resources/openvr-input-plugin.534/).
+- Review the setup for VR/XR development
+- Demo more VR
 
 
-## Final Project: Brainstorming
-Here's the link to the online [jamboard](https://jamboard.google.com/d/1fmz5UST6TOcEIvZLUC20buVko7-4BGfvQ6fbRtpGH3A/edit?usp=sharing) that we'll use to brainstorm today. *You'll need to be using your MICA Google account to edit the document.*
+## Demo: More VR Basics 2
+This is going to be a very hands-on demo. Here's what I'd like to cover:
+- Fixes: Remedy character controller + held object movement issue
+- Teleportation (basic implementation, teleportation area, teleportation anchor)
+- XR Ray Interactor (turn off anchor control, changing ray type/appearance, reticles)
+- XR Direct Interactor (setting attach transform, adding audio/haptic feedback)
+- Creating a physical button and a door using Unity Events and joints (Based on the excellent tutorials by Fist Full of Shrimp!)
+
+I'll upload some short videos here covering everything we do together in class today.
+
+## Open Studio
+Please work on your prototype with whatever remaining time we have in class anywhere on the 2nd floor. _Don't leave early without getting permission._
 
 # Homework
 
-## Final Project: Project Ideation
-Next week, each team will give a brief presentation on their game idea which includes precedents for mechanics, narrative elements, themes, & art direction. An outline for your slides can be found [here](https://docs.google.com/document/d/1MRfOIbxSUGDb_OteNxvMYAZ8gG4bfAx-dbrSKNwDLXM/edit?usp=sharing)
+## Prototype 8: VR Exploration 2
+Here's the project description ([link](https://docs.google.com/document/d/1pTy3JOf1fqmHcoGq8B8Y_o0zH75J7yGyytsqEtVYRbA/edit?usp=sharing)). 
+
+If you're looking for additional functionality/ideas, here are some good Youtube channels I'd recommend: 
+- [Jason P Barnett](https://www.youtube.com/@JustinPBarnett)
+- [VR with Andrew](https://www.youtube.com/@VRwithAndrew)
+- [Fist Full of Shrimp](https://www.youtube.com/@FistFullofShrimp)
+
+## Begin ideation for the final project
+[Here's the project writeup](https://docs.google.com/document/d/1XLSn4Q9sUw1EnbngyQbPoJi-MfTJ259bo3u3Nov7PCc/edit?usp=sharing). You are responsible for working with at least one other person for this project. This weekend I'd like you to start circling some ideas. Next week, we'll share ideas and do some team-forming and brain-storming
 
 
-## Final Project: Begin Developing Proof of Concept Prototype(s)
-Develop *at least* one prototype which demonstrates how your game works. This is as much about demonstrating functionality as it is about potential. Show us why this works, not just how it works!
+## VR Headsets
+You and your partner are responsible for one VR headset that you are allowed to borrow this week. Take good care of it. Do not lose it or leave it unattended anywhere. If this seems like too much responsibility, we can also coordinate with Sammy Weil in the 4F office to make the headset available to check out to you during his weekday office hours. Let me know.
 
-Also, if you can’t have a basic implementation of core mechanics prototyped by this stage you will be discouraged from adding it later. Figure out what is central to your game.
+### What to turn in
+I only want the *tested* apk file uploaded to your Drive folder. _Send me the link_. 
 
-**Do not design levels or focus on visual assets at this point.** Create undesigned sandbox scene(s) which explore core mechanics (the novel or interesting things a player can do in your game), basic player metrics (scale of player to world and basic movement mechanics), and how your core gameplay works. Keep the assets simple but informative/expressive.
+No project files unless there is an issue you want to resolve. WebGL builds are nice, but secondary, concerns in this class. 
 
-Your team will demonstrate the prototype(s) next week.
+### Prototype show & tell next week
+We'll start class next week by having you briefly share your prototypes.
