@@ -4,10 +4,11 @@ Welcome back from break. Today, we’ll meet as a group to…
 ## Check out VR explorations
 - Sideloading builds onto the Meta Quest 2
 - Final project group formation & brainstorming
+
 ## Demo: Sideloading .apk files
 APK builds from Unity can easily be shared and loaded onto Meta Quest headsets using applications like SideQuest.
 
-Watch out! There are two different SideQuest installers. Install the Advanced desktop application (Mac/PC) from the Downloads page.
+**Watch out! There are two different SideQuest installers.** Install the Advanced desktop application (Mac/PC) from [the Downloads page](https://sidequestvr.com/setup-howto).
 
 ### Once SideQuest is installed…
 - Click the install apk button from the top of the window (the icon looks like a box with a downward arrow).
