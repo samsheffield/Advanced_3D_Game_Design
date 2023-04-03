@@ -60,3 +60,6 @@ In this studio course, students will create small 3D games in groups while furth
 
 [Week 9 (03/27):](week9.md)
 - VR Introduction 2
+
+[Week 10 (04/03):](week10.md)
+- Final Project: Group Forming & Brainstorming
