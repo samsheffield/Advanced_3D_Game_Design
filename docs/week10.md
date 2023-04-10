@@ -33,6 +33,8 @@ Here’s the link to the [online jamboard](https://jamboard.google.com/d/1fmz5US
 # Homework
 
 ## Final Project: Project Ideation
+[Here's the project writeup](https://docs.google.com/document/d/1XLSn4Q9sUw1EnbngyQbPoJi-MfTJ259bo3u3Nov7PCc/edit?usp=sharing).
+
 Next week, each team will give a brief presentation on their game idea which includes precedents for mechanics, narrative elements, themes, & art direction. An outline for your slides can be found [here](https://docs.google.com/document/d/1MRfOIbxSUGDb_OteNxvMYAZ8gG4bfAx-dbrSKNwDLXM/edit?usp=sharing)
 
 ## Final Project: Begin Developing Proof of Concept Prototype(s)
