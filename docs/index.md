@@ -65,4 +65,4 @@ In this studio course, students will create small 3D games in groups while furth
 - Final Project: Group Forming & Brainstorming
 
 [Week 11 (04/10):](week11.md)
-- Final Project: Group Forming & Brainstorming
+- Final Project: Group Presentations
