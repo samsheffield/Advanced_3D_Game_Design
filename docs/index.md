@@ -66,3 +66,6 @@ In this studio course, students will create small 3D games in groups while furth
 
 [Week 11 (04/10):](week11.md)
 - Final Project: Group Presentations
+
+[Week 12 (04/17):](week12.md)
+- Final Project: Pre-production check-in
