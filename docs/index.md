@@ -8,64 +8,21 @@
 This is the class site for Advanced 3D Game Design, taught in the Game Design program by Sam Sheffield (ssheffield@mica.edu).
 
 ### Course Description
-In this studio course, students will create small 3D games in groups while furthering their understanding of 3D game design, research, and prototyping. The course emphasizes project management skills so that groups can successfully plan and execute their designs. Studio work is supplemented by readings and discussions further exploring contemporary cultural issues surrounding digital games.
-
-### Course Goals
-- Continue building Unity game development skills, with emphasis on 3D games. 
-- Create space for self-directed game research and development.
-- Continue developing a critical vocabulary for discussing video games.
-- Continue developing project management and team working skills.
-
+In this studio course, students will collaborate to develop small 3D video games while refining their understanding of video game design and development. The course emphasizes experimentation. research, prototyping, and project management. Students will further develop their teamwork and communication skills, and by the end of the course, will be able to analyze, discuss, and create 3D game projects.
 
 ### Student Learning Outcomes
-- Students will gain more experience with Unity’s 3D workflow.
-- Students will gain familiarity with Unity tools such as Post-Processing, Terrain Tools, Shadergraph, and the URP.
-- Students will research, prototype, and develop a small, self-directed 3D game.
-- Students will communicate and present game designs from concept to finished form.
+In this course, students will…
+- Advance their game development skills, with a particular focus on 3D game creation.
+- Gain experience with intermediate game development techniques such as motion capture, virtual reality (VR), and material, shader, or visual effects (VFX) creation.
+- Develop teamwork and professional skills through collaborative projects and practices.
+- Demonstrate an ability to research, prototyping, and development of a small, self-directed 3D video game.
+- Expand and refine a critical vocabulary for analyzing and discussing video game development processes.
+
 
 
 ### Class Syllabus
-- PDF is [here](https://docs.google.com/document/d/1b4BHQRMDW5Vewgt7--ZLn1q1Emw6g5aWPbBmMEI1JzY/edit?usp=sharing)
-
-### Software Version
-- Class materials developed using Unity 2021 LTS
-
-## Demo Videos
-- Do you need demo videos? I'll add the channel here.
+- PDF is [here](https://docs.google.com/document/d/1u5qN16TDKICpdmIkKGO4RPln9YKGrfHJrICJt7hwaJw/edit?usp=sharing)
 
 ## Weekly Class Notes
-[Week 1 (01/23):](week1.md)
+[Week 1 (01/27):](week1.md)
 - Welcome, Class Overview, Q&A
-- URP, Post-Processing
-
-[Week 2 (01/30):](week2.md)
-- Color Grading and Lookup Tables (LUTs)
-- Introduction to Unity's Particle System
-- Global Game Jam!
-
-[Week 3 (02/06):](week3.md)
-- Introduce Unity's Terrain Tools
-
-[Week 4 (02/13):](week4.md)
-- Lightmapping Review and Light Probe Introduction
-
-[Week 5 (02/20):](week5.md)
-- Shader Graph Introduction, Class Visit
-
-[Week 7 (03/06):](week7.md)
-- Shader Graph Introduction 2
-
-[Week 8 (03/20):](week8.md)
-- VR Introduction 1
-
-[Week 9 (03/27):](week9.md)
-- VR Introduction 2
-
-[Week 10 (04/03):](week10.md)
-- Final Project: Group Forming & Brainstorming
-
-[Week 11 (04/10):](week11.md)
-- Final Project: Group Presentations
-
-[Week 12 (04/17):](week12.md)
-- Final Project: Pre-production check-in
