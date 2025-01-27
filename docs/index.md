@@ -1,7 +1,3 @@
-
-
-
-
 ## Advanced 3D Game Design (GMD 340.01)
 
 ### About
@@ -25,4 +21,4 @@ In this course, students will…
 
 ## Weekly Class Notes
 [Week 1 (01/27):](week1.md)
-- Welcome, Class Overview, Q&A
+- Welcome, Class Overview
