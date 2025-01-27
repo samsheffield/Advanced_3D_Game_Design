@@ -12,8 +12,8 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 
 ### Semester warm-up
 As a warm-up for this semester, create a small prototype using the engine of your choice. Please spend no more than 5 hours developing the prototype this week. There are two goals for this assignment:
-1. is to familiarize you with the open-ended expectations for weekly work in this class.
-2. reacquaint you with the tools we'll be using this semester
+1. To familiarize you with the open-ended expectations for weekly work in this class.
+2. To reacquaint you with the tools we'll be using this semester.
 
 #### Basic Requirements
 - Prototype must be in 3D.
