@@ -10,7 +10,7 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 
 ### Demo Materials
 - [Unity Package here](https://drive.google.com/file/d/1eQN4r620tH0Ymtlm7To44mdiTgzs3oqQ/view?usp=sharing) with complete versions of everything from the demos. Video here (will upload today).
-- Unreal materials here (Will upload today). Video here (will upload today).
+- [Unreal materials here](https://drive.google.com/file/d/11gGcKH34zaqg3sgy5ZYOfmqIKMiItbr5/view?usp=sharing). Video here (will upload today).
 
 ## Open Studio
 Please work on your prototype with whatever remaining time we have in class anywhere on the 2nd floor. _Don't leave early without getting permission._
