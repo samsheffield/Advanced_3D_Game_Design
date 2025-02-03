@@ -22,3 +22,5 @@ In this course, students will…
 ## Weekly Class Notes
 [Week 1 (01/27):](week1.md)
 - Welcome, Class Overview
+[Week 2 (02/03):](week2.md)
+- Shader discussion (Shader Graph and Material Graph)
