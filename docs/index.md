@@ -24,4 +24,7 @@ In this course, students will…
 - Welcome, Class Overview
 
 [Week 2 (02/03):](week2.md)
-- Shader discussion (Shader Graph and Material Graph)
+- Fragment shader discussion (Shader Graph and Material Graph)
+
+[Week 3 (02/10):](week3.md)
+- Vertex shader discussion (Shader Graph and Material Graph)
