@@ -9,10 +9,10 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 
 ### Demo Materials
 
-- [DEMO TEXTURES](https://drive.google.com/file/d/17LSct-iWDUxlVPOKopGpEnRxCMm72_KA/view?usp=sharing)
 - [Unity Package here](https://drive.google.com/file/d/15bOp0H4Wuhps52ypFzmAMUS4Ddl6Iq2U/view?usp=sharing) with complete versions of everything from the demos.
 - [Unreal materials here](https://drive.google.com/file/d/1OCApi_xMwhCzoaE1W5B4-AXKQojGk9Lm/view?usp=sharing).
-- __Video demos for both UE5 and Unity can be found [here soon].__
+- [DEMO TEXTURES FOR UNREAL](https://drive.google.com/file/d/17LSct-iWDUxlVPOKopGpEnRxCMm72_KA/view?usp=sharing).
+- __Video demos for both UE5 and Unity can be found [here](https://youtube.com/playlist?list=PL42xm44H83rIzNRQwdXtEHPXnuhWpUZGw&si=0gCObcWawAQZqR3Q).__
 
 ## Open Studio
 Please work on your prototype with whatever remaining time we have in class anywhere on the 2nd floor. _Don't leave early without getting permission._
