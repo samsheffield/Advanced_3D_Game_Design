@@ -28,3 +28,6 @@ In this course, students will…
 
 [Week 3 (02/10):](week3.md)
 - Vertex shader discussion (Shader Graph and Material Graph)
+
+[Week 4 (02/17):](week4.md)
+- Input Actions and Particle System/Niagara Basics
