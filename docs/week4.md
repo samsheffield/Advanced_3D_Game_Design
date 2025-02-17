@@ -9,8 +9,8 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 ### Demo Materials
 
 - [TEXTURES FOR PARTICLES HERE](https://www.kenney.nl/assets/particle-pack).
-- [UnityPackage here] with complete versions of everything from the demos.
-- [Unreal Niagara demo materials here].
+- [UnityPackage here](https://drive.google.com/file/d/1ttbS5RYQALlNwpvWlmgYES3HaL4Sd9WH/view?usp=sharing) with complete versions of everything from the demos.
+- [Unreal Niagara demo materials here](https://drive.google.com/file/d/1JINvtqpHKOnvXJODPHqp6xptqLhbbXCM/view?usp=sharing).
 - __Video demos for both UE5 and Unity can be found [here] by tomorrow morning.__
 
 ## Open Studio
