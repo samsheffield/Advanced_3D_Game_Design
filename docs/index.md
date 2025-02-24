@@ -31,3 +31,6 @@ In this course, students will…
 
 [Week 4 (02/17):](week4.md)
 - Input Actions and Particle System/Niagara Basics
+
+[Week 5 (02/24):](week5.md)
+- Behavior Tree and Nav Mesh Basics
