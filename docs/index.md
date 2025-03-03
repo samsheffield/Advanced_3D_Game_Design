@@ -34,3 +34,7 @@ In this course, students will…
 
 [Week 5 (02/24):](week5.md)
 - Behavior Tree and Nav Mesh Basics
+
+[Week 6 (03/03):](week6.md)
+- Character Animation (Review + Blending)
+- Rokoko Vision Mocap Workshop
