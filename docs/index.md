@@ -38,3 +38,6 @@ In this course, students will…
 [Week 6 (03/03):](week6.md)
 - Character Animation (Review + Blending)
 - Rokoko Vision Mocap Workshop
+
+[Week 7 (03/10):](week7.md)
+- Meta Quest XR/VR Workshop (1/2)
