@@ -40,4 +40,7 @@ In this course, students will…
 - Rokoko Vision Mocap Workshop
 
 [Week 7 (03/10):](week7.md)
-- Meta Quest XR/VR Workshop (1/2)
+- Meta Quest XR/VR Workshop
+
+[Week 8 (03/24):](week8.md)
+- Final Project Group Formation

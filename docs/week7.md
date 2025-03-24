@@ -1,7 +1,7 @@
 # W E L C O M E &nbsp; B A C K ! !
 So excited to welcome you all back. Today, we'll meet as a group to...
 - Check out your homework.
-- Intro to VR (Workshop 1/2)
+- Intro to VR Workshop.
 
 ## Character Animation Homework
 - Review in  small groups, dependent on class size. __Find two new partners!__
@@ -10,7 +10,7 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 - Setting up the VR/XR toolchain for Meta Quest development on lab PCs (link)
 - Useful videos ([Unity]())
 
-### Meta Quest VR/XR Workshop (Part 1 of 2)
+### Meta Quest VR/XR Workshop
 - Today: Focus on setting things up and some basic experiments on small teams with basic locomotion (teleportation) and interaction (grabbing).
 - _We have limited equipment, so you will need to work on small teams of 3 to 4 people._
 - This will be in-class work. We'll review work within the last hour of class as a group today.
