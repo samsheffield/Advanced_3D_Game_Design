@@ -44,3 +44,6 @@ In this course, students will…
 
 [Week 8 (03/24):](week8.md)
 - Final Project Group Formation
+
+[Week 9 (03/31):](week9.md)
+- Prototyping and begin preparing presentation 
