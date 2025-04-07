@@ -8,7 +8,7 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 
 
 ## Presentations and Proof of Concept Demos
-We'll start with the project presentations at 10:15.
+We'll start with the project presentations at 12:45.
 
 [Here are the guidelines for this week's presentations](https://docs.google.com/document/d/18JPSdd0j3sQ68q48KJvBTY20NkXhErf2mQyonYKJW_4/edit?usp=sharing).
 
