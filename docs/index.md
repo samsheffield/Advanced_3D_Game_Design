@@ -47,3 +47,6 @@ In this course, students will…
 
 [Week 9 (03/31):](week9.md)
 - Prototyping and begin preparing presentation 
+
+[Week 10 (04/07):](week10.md)
+- Presentations and proof of concept demos 
