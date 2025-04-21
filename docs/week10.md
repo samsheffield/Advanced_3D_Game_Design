@@ -35,7 +35,7 @@ A first pass at blocked out/greyboxed version of your game. Do not focus on fina
 
 _Deliverable:_
 
-Unity project with blocked out scene(s). Player should be able to move around and use basic mechanics in the spaces. We'll discuss these together next week.
+Unity or Unreal project with blocked out scene(s). Player should be able to move around and use basic mechanics in the spaces. We'll discuss these together next week.
 
 ## Milestone 1 Prototype (Due 04/21)
 In two weeks you will need to have a prototype of your game which is playable by others without your assistance which is functionally complete but without finished audiovisual assets.
