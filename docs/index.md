@@ -51,7 +51,7 @@ In this course, students will…
 [Week 10 (04/07):](week10.md)
 - Presentations and proof of concept demos 
 
-[Week 10 (04/14):](week11.md)
+[Week 11 (04/14):](week11.md)
 - Work session and review level planning and pre-production materials
 
 [Week 12 (04/21):](week12.md)
