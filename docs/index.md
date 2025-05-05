@@ -56,3 +56,9 @@ In this course, students will…
 
 [Week 12 (04/21):](week12.md)
 - Work session and playtesting in the afternoon
+
+[Week 13 (04/28):](week13.md)
+- Work session and playtesting in the afternoon
+
+[Week 14 (05/05):](week14.md)
+- Work session and final playtesting in the afternoon
