@@ -6,59 +6,68 @@ This is the class site for Advanced 3D Game Design, taught in the Game Design pr
 ### Course Description
 In this studio course, students will collaborate to develop small 3D video games while refining their understanding of video game design and development. The course emphasizes experimentation. research, prototyping, and project management. Students will further develop their teamwork and communication skills, and by the end of the course, will be able to analyze, discuss, and create 3D game projects.
 
+#### Prerequisite: 
+- GMD 240: 3D Game Design or GMD 265: Unreal Engine Workshop
+
 ### Student Learning Outcomes
 In this course, students will…
 - Advance their game development skills, with a particular focus on 3D game creation.
-- Gain experience with intermediate game development techniques such as motion capture, virtual reality (VR), and material, shader, or visual effects (VFX) creation.
 - Develop teamwork and professional skills through collaborative projects and practices.
-- Demonstrate an ability to research, prototyping, and development of a small, self-directed 3D video game.
+- Demonstrate an ability to research, prototyping, and development of a small, self-directed 3D video game demo or vertical slice.
 - Expand and refine a critical vocabulary for analyzing and discussing video game development processes.
+- Gain experience with intermediate game development techniques such as Extended/Virtual Reality (XR/VR).
 
 
 
 ### Class Syllabus
-- PDF is [here](https://docs.google.com/document/d/1u5qN16TDKICpdmIkKGO4RPln9YKGrfHJrICJt7hwaJw/edit?usp=sharing)
+- PDF is [here](https://docs.google.com/document/d/1h2R_a9rRQZDJ-REzlJBYPXzyS5SZ5yoUrNIacvNWrkc/edit?usp=sharing)
 
 ## Weekly Class Notes
-[Week 1 (01/27):](week1.md)
-- Welcome, Class Overview
+[Week 1 (01/26):]()
+- Welcome. Brainstorming and Project team formation
 
-[Week 2 (02/03):](week2.md)
-- Fragment shader discussion (Shader Graph and Material Graph)
+[Week 2 (02/02):]()
+- Core Project pre-production: Research and Prototyping. 
 
-[Week 3 (02/10):](week3.md)
-- Vertex shader discussion (Shader Graph and Material Graph)
+[Week 3 (02/09):]()
+- Core Project pre-production: Research and Prototyping. Version Control and Project Management tools
 
-[Week 4 (02/17):](week4.md)
-- Input Actions and Particle System/Niagara Basics
+[Week 4 (02/16):]()
+- Core Project Presentations. Prepare Game Development Documents. 
 
-[Week 5 (02/24):](week5.md)
-- Behavior Tree and Nav Mesh Basics
+[Week 5 (02/23):]()
+- Core Project Proof of Concept Prototype due.
 
-[Week 6 (03/03):](week6.md)
-- Character Animation (Review + Blending)
-- Rokoko Vision Mocap Workshop
+[Week 6 (03/02):]()
+- Work Session & Check-ins.
 
-[Week 7 (03/10):](week7.md)
-- Meta Quest XR/VR Workshop
+[Week 7 (03/09):]()
+- Milestone 1 Playtest (In-class). 
+- Sam Butin artist’s talk at 1pm.
 
-[Week 8 (03/24):](week8.md)
+[Week 8 (03/16):]()
 - Final Project Group Formation
 
-[Week 9 (03/31):](week9.md)
+[Week 9 (03/23):]()
 - Prototyping and begin preparing presentation 
 
-[Week 10 (04/07):](week10.md)
+[Week 10 (03/30):]()
 - Presentations and proof of concept demos 
 
-[Week 11 (04/14):](week11.md)
+[Week 11 (04/06):]()
 - Work session and review level planning and pre-production materials
 
-[Week 12 (04/21):](week12.md)
-- Work session and playtesting in the afternoon
+[Week 12 (04/13):]()
+- Core Project Milestone 3: Final In-class playtests
 
-[Week 13 (04/28):](week13.md)
-- Work session and playtesting in the afternoon
+[Week 13 (04/20):]()
+- XR/VR Workshop (1/2)
+- Core Project: Trailer and itch.io page due
 
-[Week 14 (05/05):](week14.md)
-- Work session and final playtesting in the afternoon
+[Week 14 (04/27):]()
+- XR/VR Workshop (2/2)
+- Work session
+
+[Week 15 (05/04):]()
+- VR Prototype playtesting session
+- In-class visitor: Karen Chang (MICA Alumni, Studio217)
