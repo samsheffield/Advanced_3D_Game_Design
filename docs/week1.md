@@ -25,6 +25,10 @@ Each of you will have an opportunity to introduce yourself to the class. This do
 - 2-3 examples of recent work relevant to this class  
   - Remember the note above about kinetic work
 
+## For your consideration
+- PC Gamer article: We're in a golden era of game demos by Lauren Morton ([link](https://tech.yahoo.com/gaming/articles/were-golden-era-game-demos-224656515.html)).
+- YouTube video: Making Successful Indie Games is Simple (But Not Easy) by Jonas Tyroller ([link](https://www.youtube.com/watch?v=xej_wsBB5tY)).
+
 ## Homework
 
 ### Option #1: #### Warm-up
