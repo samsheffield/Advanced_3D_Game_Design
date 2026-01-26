@@ -23,20 +23,20 @@ In this course, students will…
 - PDF is [here](https://docs.google.com/document/d/1h2R_a9rRQZDJ-REzlJBYPXzyS5SZ5yoUrNIacvNWrkc/edit?usp=sharing)
 
 ## Weekly Class Notes
-[Week 1 (01/26):]()
-- Welcome. Brainstorming and Project team formation
+[Week 1 (01/26):](week1.md)
+- Welcome. Introductions. Global Game Jam
 
 [Week 2 (02/02):]()
-- Core Project pre-production: Research and Prototyping. 
+- Brainstorming and Project team formation. Core Project pre-production: Research and Prototyping. 
 
 [Week 3 (02/09):]()
 - Core Project pre-production: Research and Prototyping. Version Control and Project Management tools
 
 [Week 4 (02/16):]()
-- Core Project Presentations. Prepare Game Development Documents. 
+- Prepare Game Development Documents. 
 
 [Week 5 (02/23):]()
-- Core Project Proof of Concept Prototype due.
+- Core Project Presentations. Core Project Proof of Concept Prototype due.
 
 [Week 6 (03/02):]()
 - Work Session & Check-ins.
