@@ -46,7 +46,7 @@ In this course, students will…
 - Sam Butin artist’s talk at 1pm.
 
 [Week 8 (03/16):]()
-- Final Project Group Formation
+- SPRING BREAK
 
 [Week 9 (03/23):]()
 - Prototyping and begin preparing presentation 
