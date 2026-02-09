@@ -29,11 +29,11 @@ In this course, students will…
 [Week 2 (02/02):](week2.md)
 - Brainstorming and Project team formation. Core Project pre-production: Research and Prototyping. 
 
-[Week 3 (02/09):]()
-- Core Project pre-production: Research and Prototyping. Version Control and Project Management tools
+[Week 3 (02/09):](week3.md)
+- Core Project pre-production: Research and Prototyping. Begin Visual Development.
 
 [Week 4 (02/16):]()
-- Core Project pre-production: Research and Prototyping. Prepare Game Development Documents. 
+- Core Project pre-production: Research and Prototyping. Version Control and Project Management tools. Prepare Game Development Documents. 
 
 [Week 5 (02/23):]()
 - Core Project Presentations. Core Project Proof of Concept Prototype due.
