@@ -32,7 +32,7 @@ In this course, students will…
 [Week 3 (02/09):](week3.md)
 - Core Project pre-production: Research and Prototyping. Begin Visual Development.
 
-[Week 4 (02/16):]()
+[Week 4 (02/16):](week4.md)
 - Core Project pre-production: Research and Prototyping. Version Control and Project Management tools. Prepare Game Development Documents. 
 
 [Week 5 (02/23):]()
@@ -49,16 +49,16 @@ In this course, students will…
 - SPRING BREAK
 
 [Week 9 (03/23):]()
-- Prototyping and begin preparing presentation 
+- Work Session & Check-ins.
 
 [Week 10 (03/30):]()
-- Presentations and proof of concept demos 
+- Milestone 2 Playtest (In-class and Homework).
 
 [Week 11 (04/06):]()
-- Work session and review level planning and pre-production materials
+- Work Session & Check-ins.
 
 [Week 12 (04/13):]()
-- Core Project Milestone 3: Final In-class playtests
+- Core Project Milestone 3: Final In-class Playtest (Project due)
 
 [Week 13 (04/20):]()
 - XR/VR Workshop (1/2)
